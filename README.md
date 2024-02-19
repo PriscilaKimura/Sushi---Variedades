@@ -38,3 +38,7 @@ Se vocÃª gostaria de contribuir para o desenvolvimento deste projeto, sinta-se Ã
 
 
 
+https://github.com/PriscilaKimura/Sushi---Variedades/assets/141864300/b25fb68d-a20f-4361-93e6-a490f1f3f93d
+
+
+
