@@ -1,7 +1,7 @@
 # Cardápio Interativo
 
 Bem-vindo ao Cardápio Interativo é um projeto online para restaurantes, oferecendo aos clientes uma experiência fácil e intuitiva para visualizar e selecionar seus pratos favoritos. Explorando diversas categorias, adicionando itens ao carrinho, fazendo reservas pelo WhatsApp e utilizando o formulário que faz a busca do endereço com base no CEP. 
-.
+
 
 ## Funcionalidades
 
