@@ -41,11 +41,10 @@ Bem-vindo ao Cardápio Interativo é um projeto online para restaurantes, oferec
 
 Se você gostaria de contribuir para o desenvolvimento deste projeto, sinta-se à vontade para abrir problemas (issues) ou enviar pull requests.
 
-## Link: https://priscilakimura.github.io/Sushi---Variedades/
-
-
-
 https://github.com/PriscilaKimura/Sushi---Variedades/assets/141864300/b25fb68d-a20f-4361-93e6-a490f1f3f93d
+
+
+# Link: https://priscilakimura.github.io/Sushi---Variedades/
 
 
 
